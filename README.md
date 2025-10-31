@@ -56,6 +56,10 @@ Donut Chart: Comparison between Movies and TV Shows.
 
 Area Chart: Titles released by year.
 
+! [ Netflix Dashboard Screenshot ]
+(netflix.png)
+
+
 ⚙ Process Workflow
 
 1. Data Loading: Imported CSV/Excel dataset into Power BI.
